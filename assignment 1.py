@@ -6,9 +6,9 @@
 # Program Outputs: the area of the room, the area of the room that needs to be painted, amount of primer needed to paint
 
 # ask for the 3 definitions
-length = input("What is the length of the room?")
-width = input("What is the width of the room?")
-height = input("What is the height of the room?")
+length = input("What is the length of the room in feet?")
+width = input("What is the width of the room in feet?")
+height = input("What is the height of the room in feet?")
 
 # calculate the area
 # ceiling
